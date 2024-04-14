@@ -1,4 +1,4 @@
-## Aprendendo JavaScritp
+## Aprendendo JavaScript
 
 
 
