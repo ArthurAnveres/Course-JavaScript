@@ -116,7 +116,8 @@ true + false = true
 false + true = true
 false + false = false
 
-Ordem de precedência:
+# Ordem de precedência:
+
 operadores aritmêdicos:
 ()
 **
@@ -135,3 +136,44 @@ operador ternário
 teste ? true : false
 
 média>=7.0 ? "aprovado" : "reprovado"
+
+# Document Object Model
+Modelo de objetos dentro do navegador que dara acesso a documentos internos do navegador
+
+
+
+# Árvore DOM
+dentro da window tem o location, document, history
+dentro de document possui o html que possui o head e o body
+
+posso acessar por:
+Marca = getElementsByTagName() para escolher um em especifico abrir [] e colocar o vetor
+ID = getElementById()
+Nome = getElementsByName()
+Classe = getElementsByClassName()
+Seletor = querySelector() e querySelectorAll()
+
+[Exemplos práticos de uso](aula2\ex005.html)
+
+# Eventos DOM
+Eventos que podem ocontecer com mouse:
+mouseenter
+mousemove
+mousedown
+mouseup
+click
+mouseout
+
+# Funções
+as funções são feitas da seguinte maneira:
+function ação(param){
+
+}
+
+# Condições
+
+Sequências deve seguir em sequência os comandos Ex de condição:
+comando 1
+comando 2
+comando 3
+
